@@ -1,7 +1,7 @@
 /* 
 * Custom CSS
 * Mobile first
-* Customized breakpoints defined in main.scss
+* Customized breakpoints defined in bootstrap-custom.scss : if bootstrap has been updated with npm, use sass command to create new bootstrap.css file
 */
 
 body {
