@@ -4,8 +4,8 @@
   "description": "AOD vintage bikes",
   "main": "index.js",
   "scripts": {
-    "sass": "sass --watch ./css/bootstrap-custom.scss:./css/bootstrap.css --style expanded",
-    "prefix": "postcss ./css/style.css --use autoprefixer -d ./css/prefixed/"
+    "sass": "sass --watch ./css/dev/bootstrap-custom.scss:./css/bootstrap.css --style expanded",
+    "prefix": "postcss ./css/dev/custom.css --use autoprefixer -d ./css"
   },
   "author": "",
   "license": "ISC",
